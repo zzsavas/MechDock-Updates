@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "product": "MechDock",
+    "channel": "standalone",
+    "version": "0.2.3",
+    "size": 50137719,
+    "sha256": "42f609e5583b80be5da687301fb85ff55d1d2bcafd05d9e1fde5279f357df86f",
+    "url": "https://github.com/zzsavas/MechDock-Updates/releases/download/v0.2.3/MechDock.exe"
+  },
+  "signature": "aXaNKCaDKdMgx9KeXgAE5TBwXiO4T2pHiSqYNEGX5/l7hkTm/sMqrMJb75NGE05ncJ/WfIMa/bPKvLEFqkHAAw=="
+}
