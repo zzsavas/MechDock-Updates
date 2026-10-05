@@ -2,10 +2,10 @@
   "payload": {
     "product": "MechDock",
     "channel": "standalone",
-    "version": "0.2.4",
-    "size": 50134978,
-    "sha256": "c1489b63bfb5fb02564fb81f8ca10818dfd34d454aa279f7da69a1949cae4b22",
-    "url": "https://github.com/zzsavas/MechDock-Updates/releases/download/v0.2.4/MechDock.exe"
+    "version": "0.2.5",
+    "size": 50254424,
+    "sha256": "104e6faa7965c3315fa84594407eb0f07d13c5e9b4d2c479a637207af3c576ec",
+    "url": "https://github.com/zzsavas/MechDock-Updates/releases/download/v0.2.5/MechDock.exe"
   },
-  "signature": "oZbXmeYjG6oG+M/T295M+SRo+KYx6WdNhGa5gL0WxFsseCqVuede1uShCVwp9UOg0/dRsTyg9KrHyJpobMBzDQ=="
+  "signature": "vM/Ba4qyd6Dx3WCA7iDIfDr1ESg4+vbLDW2zI8USbJrEGMO+RkgZUcY4nz9ZiVRjDHCb5qLm4voaGYsuNx5pBQ=="
 }
