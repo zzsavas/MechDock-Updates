@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "product": "MechDock",
+  "version": "0.2.6",
+  "build_id": "37745086-52e8-4214-ac5f-fe6b8d920d5b",
+  "built_at": "2026-10-07T17:29:04.681331+00:00",
+  "source_revision": "bfe3b2c5a89bb34fb68f46f207a323b2faa2ac61",
+  "source_dirty": false,
+  "channel": "standalone",
+  "distributable": true,
+  "exe_sha256": "756582305a1a23a622f528126b47c8fa09245286ad0bdb467d49f7672b3821ea"
+}

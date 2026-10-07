@@ -1,0 +1,8 @@
+{
+  "product": "MechDock",
+  "version": "0.2.6",
+  "channel": "unlicensed",
+  "mcp_bundled": true,
+  "python_bundled": true,
+  "status": "NOT_RELEASED"
+}
